@@ -1,6 +1,6 @@
 
 var Game={
-        Ws: "ws://127.0.0.1:7070"
+        Ws: "ws://127.0.0.1:7070"//上线改为外网IP
         ,Socket : null
         , Clients: null
         , Roomid: null//当前局数

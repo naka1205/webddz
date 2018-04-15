@@ -1,6 +1,6 @@
 var Http = {};
 
-Http.server = 'http://127.0.0.1:4321';
+Http.server = 'http://127.0.0.1:4321';//上线改为外网IP
 Http.auth = '';
 
 Http.get = function (events, callback) {
