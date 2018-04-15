@@ -1,0 +1,31 @@
+{
+  "name": "webddz",
+  "version": "1.0.0",
+  "description": "webddz",
+  "main": "webpack.config.js",
+  "scripts": {
+    "server": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "author": "naka1205",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "file-loader": "^1.1.6",
+    "html-webpack-plugin": "^2.30.1",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/naka507/webddz.git"
+  },
+  "keywords": [
+    "webddz"
+  ]
+}
