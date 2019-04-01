@@ -25,7 +25,7 @@
 ![等待出牌](http://files.oyoula.com/10.jpg "等待出牌")
 
 ## 线上预览
-测试地址：https://ddz.oyoula.com
+测试地址：https://www.oyoula.com/ddz
 
 ## 本地开发
 使用前请确保开发环境下安装了NODEJS，并安装了WEBPACK3
